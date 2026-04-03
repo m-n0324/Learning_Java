@@ -14,7 +14,7 @@ public class Buffer {
 }
 //Enter Age:15
 // Now Enter Name:
-//Your Age is: 15 and Your name is:
+//Your Age is: 15 and Your name is: output me name ki jagha kuch nhi aaega .
 // here the problem is not waiting to enter name happens because of how the input
 // buffer handles the "Enter" key (the newline character \n). when age 15 press enter
 // buffer 15\n so it read 15 but leaves the \n sitting thereWhen you call nextLine(),
