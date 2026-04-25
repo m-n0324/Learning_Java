@@ -11,7 +11,8 @@ public class Triangle {
         double A = s*(s-a)*(s-b)*(s-c);
         double ans = Math.sqrt(A);
 
-        System.out.printf("%.2f",ans);
+//        System.out.printf("%.2f",ans);
+        System.out.print(Math.ceil(4.2));
 
 
 
