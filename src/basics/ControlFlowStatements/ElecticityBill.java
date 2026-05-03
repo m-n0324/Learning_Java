@@ -1,4 +1,4 @@
-package ControlFlowStatements;
+package basics.ControlFlowStatements;
 
 import java.util.Scanner;
 
